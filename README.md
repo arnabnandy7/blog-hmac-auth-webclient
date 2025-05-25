@@ -7,4 +7,6 @@ There are two subdirectories here corresponding to the two sections.
  * One focuses on using an Exchange Filter Function to add a header that signs the details of a GET request
  * The second shows how one might build a signing for a POST request, with body signing.
 
-<!-- GitAds-Verify: 4CJNHZWMNOH4IEBUNX2V4OHE5NVQ3GR9 -->
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=arnabnandy7/blog-hmac-auth-webclient@github)](https://gitads.dev/v1/ad-track?source=arnabnandy7/blog-hmac-auth-webclient@github)
+
